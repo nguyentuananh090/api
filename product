@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "tenSanPham": "iphone 14 promax",
+        "giaSanPham": "25190000"
+    },
+    {
+        "id": 2,
+        "tenSanPham": "Điện thoại iPhone 13 Pro 1TB",
+        "giaSanPham": "23000000"
+    },
+    {
+        "id": 3,
+        "tenSanPham": "iphone 14 promax  xanh",
+        "giaSanPham": "25190000"
+    },
+    {
+        "id": 4,
+        "tenSanPham": "iphone 14 promax tím",
+        "giaSanPham": "25190000"
+    }
+]
